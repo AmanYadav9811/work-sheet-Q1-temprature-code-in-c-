@@ -40,7 +40,7 @@ int main()
          else
          {
 
-             cout<<"invalid choice please run the program again and choice 1,2 or 3"<<endl;
+             cout<<"invalid choice,please run the program again and choice 1,2 or 3"<<endl;
 
              return 0;
          }
